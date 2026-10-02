@@ -1,8 +1,8 @@
-# ML Zoomcamp 2026 — soluções
+# ml-zoomcamp-2026
 
-Homeworks e projetos do [Machine Learning Zoomcamp 2026](https://github.com/DataTalksClub/machine-learning-zoomcamp) (DataTalks.Club).
+Homework for Machine Learning Zoomcamp 2026 (DataTalks.Club).
 
-| Homework | Notebook |
-|---|---|
-| 1 — Introduction to Machine Learning | [hw01/homework1.ipynb](hw01/homework1.ipynb) |
-| 2 — Machine Learning for Regression | [hw02/homework2.ipynb](hw02/homework2.ipynb) |
+Data: `car_fuel_efficiency_2026.csv`, pinned release from the course repo.
+
+- hw01 — intro, pandas basics, manual linear regression
+- hw02 — regression, train/val/test split, regularisation
