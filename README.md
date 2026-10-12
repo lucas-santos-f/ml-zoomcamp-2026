@@ -8,3 +8,4 @@ Data: pinned releases from the course repo, read straight from the raw URL.
 - hw02 — regression, train/val/test split, regularisation
 - hw03 — classification, mutual information, logistic regression, feature elimination
 - hw04 — evaluation, roc auc, precision/recall tradeoff, k-fold
+- hw05 — deployment, uv lockfile, fastapi service, docker container
