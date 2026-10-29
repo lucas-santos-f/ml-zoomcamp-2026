@@ -10,4 +10,5 @@ Data: pinned releases from the course repo, read straight from the raw URL.
 - hw04 — evaluation, roc auc, precision/recall tradeoff, k-fold
 - hw05 — deployment, uv lockfile, fastapi service, docker container
 - hw06 — trees, random forest tuning, feature importance, xgboost eta
+- hw08 — deep learning, small cnn in pytorch for curly vs straight hair, augmentation
 - midterm — student dropout early warning: xgboost, fastapi, docker, kubernetes (kind)
